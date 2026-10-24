@@ -1,0 +1,198 @@
+{
+  "brand": "aba_egitim",
+  "out": "cikti/aba_egitim",
+  "posts": [
+    {
+      "name": "01-kabul-duyurusu",
+      "template": "kabul",
+      "data": {
+        "tag": "Kabul sonuçları",
+        "num": "221",
+        "line1": "öğrencimiz",
+        "italic": "o e-postayı",
+        "line2": "aldı.",
+        "schools": [
+          "OXFORD",
+          "CAMBRIDGE",
+          "IMPERIAL",
+          "LSE",
+          "UCL"
+        ],
+        "body": "Tesadüf değil, plan. Üç yıllık bir yöntem, tek bir danışmanlık odası.",
+        "cta": "Yoruma hedef okulunu yaz"
+      }
+    },
+    {
+      "name": "02-son-tarih",
+      "template": "son_tarih",
+      "data": {
+        "day": "1 KASIM",
+        "year": "2026",
+        "what": "ABD erken başvuru<br><span lang='en'>Early Decision · Early Action</span>",
+        "checks": [
+          "Common App hesabın hazır mı?",
+          "Ana essay son okumada mı?",
+          "Tavsiye mektupları istendi mi?"
+        ],
+        "cta": "DM “TAKVİM” yaz • yol haritanı al",
+        "note": "Tarihler okula göre değişebilir; hedef okulunun sitesinden doğrula."
+      }
+    },
+    {
+      "name": "03-sinav-programi",
+      "template": "sinav",
+      "data": {
+        "exam1": "Digital",
+        "exam2": "SAT",
+        "sub": "Doğru stratejiyle hazırlan.",
+        "pill": "2 BÖLÜM • 400–1600 PUAN",
+        "feat": [
+          "Diagnostik deneme ile başlangıç",
+          "Kişisel çalışma planı",
+          "Modül bazlı ders ve tekrar",
+          "Düzenli deneme ve analiz"
+        ],
+        "cta": "Planını bizle oluştur"
+      }
+    },
+    {
+      "name": "04-keske-1-kapak",
+      "template": "keske_kapak",
+      "data": {
+        "n": 4,
+        "tag": "ABD başvurusu",
+        "h": "ABD başvurusunda<br><em>“keşke”</em> dedirten<br>4 şey",
+        "body": "Common App sezonu başladı. Bu dört detayı şimdiden bil."
+      }
+    },
+    {
+      "name": "04-keske-2",
+      "template": "keske_sayfa",
+      "data": {
+        "n": 4,
+        "i": 1,
+        "tag": "İlk 2 kural",
+        "h": "İlk 2<br><em>şaşırtan kural</em>",
+        "sum": "Ana fikir = essay'in omurgası",
+        "rows": [
+          [
+            "01",
+            "Ana essay 650 kelimeyle sınırlı",
+            "Her cümle bir karar. Hikâyeni tek bir ana fikre indir."
+          ],
+          [
+            "02",
+            "Tavsiye mektubu erken istenir",
+            "Öğretmenine en az 4–6 hafta önceden haber ver."
+          ]
+        ]
+      }
+    },
+    {
+      "name": "04-keske-3",
+      "template": "keske_sayfa",
+      "data": {
+        "n": 4,
+        "i": 2,
+        "tag": "Son 2 detay",
+        "h": "Son 2<br><em>kritik detay</em>",
+        "sum": "Derinlik > sayı",
+        "rows": [
+          [
+            "03",
+            "Aktivite listesinde 10 satır var",
+            "Sayı değil derinlik: en güçlü 3 aktiviteni öne al."
+          ],
+          [
+            "04",
+            "“<span lang='en'>Test-optional</span>” sınavsız demek değil",
+            "Güçlü bir puan dosyanı hâlâ güçlendirir; okul politikasını tek tek kontrol et."
+          ]
+        ]
+      }
+    },
+    {
+      "name": "04-keske-4-kapanis",
+      "template": "keske_son",
+      "data": {
+        "n": 4,
+        "body": "Hedefin büyük mü? Planın da büyük olsun. Başvuru takvimini birlikte kuralım."
+      }
+    },
+    {
+      "name": "05-veri-karti",
+      "template": "veri",
+      "data": {
+        "tag": "Sayılarla",
+        "title": "IB Diploma",
+        "sub": "üç sayıda bir program",
+        "stats": [
+          [
+            "45",
+            "en yüksek toplam puan"
+          ],
+          [
+            "24",
+            "diploma için en düşük puan"
+          ],
+          [
+            "3",
+            "çekirdek: TOK · EE · CAS"
+          ]
+        ],
+        "body": "Hedef okulunun istediği puanı bil; planını o sayıdan geriye doğru kur.",
+        "cta": "DM “IB” yaz • ücretsiz rehberlik",
+        "src": "Kaynak: ibo.org"
+      }
+    },
+    {
+      "name": "06-uzman-serisi",
+      "template": "uzman",
+      "data": {
+        "tag": "Uzman serisi",
+        "meta": "BLOG · 6 DK OKUMA",
+        "h1": "Yüksek puan",
+        "h2": "yetmez.",
+        "body": "Başvuru dosyası bir hikâye anlatır. Puan kapıyı aralar; seni içeri alan, o hikâyedir."
+      }
+    },
+    {
+      "name": "07-slogan",
+      "template": "slogan",
+      "data": {
+        "tag": "2026–2027 hazırlık",
+        "l1": "Hedefin",
+        "l2": "büyük mü?",
+        "l3": "Planın da",
+        "l4": "büyük olsun.",
+        "sub": "Sınav hazırlığı · yurt dışı eğitim planı",
+        "cta": "Planını bizle oluştur"
+      }
+    },
+    {
+      "name": "08-fotografli-duyuru",
+      "template": "foto_duyuru",
+      "data": {
+        "kicker": "Başvuru dönemi",
+        "h1": "Başvurular",
+        "h2": "başladı.",
+        "h3": "Kaçırma!",
+        "sub": "Okuluna ve programına göre son tarihini birlikte kontrol edelim."
+      }
+    },
+    {
+      "name": "09-story",
+      "template": "story",
+      "data": {
+        "tag": "IELTS hazırlık",
+        "title": [
+          "Hedef bant",
+          "için plan",
+          "şimdi başlar."
+        ],
+        "body": "Dört bölüm, tek takvim. Hedef okulunun istediği puandan geriye doğru çalış.",
+        "cta": "DM 'IELTS' yaz"
+      }
+    }
+  ]
+}

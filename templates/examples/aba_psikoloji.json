@@ -1,0 +1,196 @@
+{
+  "brand": "aba_psikoloji",
+  "out": "cikti/aba_psikoloji",
+  "posts": [
+    {
+      "name": "01-ic-ses",
+      "template": "ic_ses",
+      "data": {
+        "tag": "İç ses",
+        "quote": [
+          "Herkes benden",
+          "daha hızlı",
+          "ilerliyor."
+        ],
+        "label": "Karşılaştırma",
+        "body": "Bu düşünce yetersizlik değil; <b>kendi ritmini kaybettiğinin</b> işareti olabilir.",
+        "cta": "Kendi ritmini birlikte bulalım"
+      }
+    },
+    {
+      "name": "02-ebeveyn-rehberi",
+      "template": "ebeveyn",
+      "data": {
+        "headline": [
+          "Çocuğunuz sınav",
+          "sonucunu sizden",
+          "saklıyorsa..."
+        ],
+        "q": "Notu mu, yoksa<br>tepkinizi mi?",
+        "body": "Sakladığı şey not değil, <b>sizin tepkinize dair korkusu</b> olabilir. İlk cümleniz “Nasıl hissediyorsun?” olsun.",
+        "cta": "Birlikte konuşalım"
+      }
+    },
+    {
+      "name": "03-mit-1-kapak",
+      "template": "mit_kapak",
+      "data": {
+        "n": 4,
+        "tag": "Doğru bildiğimiz yanlışlar",
+        "l1": "Sınav",
+        "l2": "gecesi",
+        "l3": "mitleri",
+        "body": "Sınav haftasında en sık duyduğumuz iki cümleyi ayırıyoruz."
+      }
+    },
+    {
+      "name": "03-mit-2",
+      "template": "mit_sayfa",
+      "data": {
+        "n": 4,
+        "i": 1,
+        "myth": "Sınavdan önceki gece sabahlarsam daha çok konu yetiştiririm.",
+        "fact": "Uyku, gün içinde öğrendiklerini hafızaya yerleştirir.",
+        "note": "Son gece yeni konu değil, dinlenmiş bir zihin kazandırır."
+      }
+    },
+    {
+      "name": "03-mit-3",
+      "template": "mit_sayfa",
+      "data": {
+        "n": 4,
+        "i": 2,
+        "myth": "Kaygı hissediyorsam yeterince hazır değilimdir.",
+        "fact": "Orta düzeyde kaygı, dikkati toplamaya yardım eder.",
+        "note": "Hedef kaygıyı yok etmek değil, yönetmek.",
+        "swipe": "ÖZET İÇİN KAYDIR →"
+      }
+    },
+    {
+      "name": "03-mit-4-kapanis",
+      "template": "kapanis",
+      "data": {
+        "n": 4,
+        "tag": "Sınav haftası",
+        "body": "Son gece için dört küçük karar, büyük bir fark yaratır.",
+        "list": [
+          "Uyu",
+          "Tekrar et, yükleme",
+          "Nefes al",
+          "Kendine güven"
+        ],
+        "box": "Sınav dönemini<br>birlikte planlayalım",
+        "cta": "Bize yaz →"
+      }
+    },
+    {
+      "name": "04-pasaport-1-kapak",
+      "template": "pasaport_kapak",
+      "data": {
+        "code": "IELTS",
+        "full": "International English<br>Language Testing System",
+        "desc": "Yurt dışında eğitim için en yaygın İngilizce yeterlik sınavlarından biri.",
+        "pill": "4 BÖLÜM • 0–9 BANT"
+      }
+    },
+    {
+      "name": "04-pasaport-2",
+      "template": "pasaport_ic",
+      "data": {
+        "code": "IELTS",
+        "boxes": [
+          [
+            "Kimler için?",
+            "Birleşik Krallık, Avustralya, Kanada ve daha birçok ülkede okumak isteyen öğrenciler."
+          ],
+          [
+            "Ne ölçer?",
+            "Dinleme, okuma, yazma ve konuşma. Her bölüm ayrı bir bant puanı alır."
+          ],
+          [
+            "Hazırlık vizesi",
+            "Konuşma bölümündeki kaygı çok yaygındır. Günde 5 dakika sesli pratik, bu kaygıyı küçültür."
+          ]
+        ]
+      }
+    },
+    {
+      "name": "04-pasaport-3",
+      "template": "pasaport_son",
+      "data": {
+        "q": "Senin IELTS<br>hazırlığında<br>en zor bölüm hangisi?",
+        "chips": [
+          "Listening",
+          "Reading",
+          "Writing",
+          "Speaking"
+        ]
+      }
+    },
+    {
+      "name": "05-haftanin-rutini",
+      "template": "rutin",
+      "data": {
+        "tag": "Pazartesi enerjisi",
+        "l1": "Yeni hafta",
+        "l2": "yeni bir",
+        "l3": "plan",
+        "voice": "Bu hafta her şeye yetişmem lazım.",
+        "steps": [
+          "Haftanın tek önceliğini seç.",
+          "Her güne 25 dakikalık bir blok koy.",
+          "Cuma akşamı neyin işe yaradığını yaz."
+        ],
+        "line": "Plan küçüldükçe kaygı da küçülür.",
+        "cta": "Haftanı birlikte planlayalım"
+      }
+    },
+    {
+      "name": "06-uzman-notu",
+      "template": "uzman",
+      "data": {
+        "byline": "UZMAN NOTU · ABA PSİKOLOJİ",
+        "title": "Tercih Döneminde",
+        "title2": "Kim Konuşuyor, Kim Dinliyor?",
+        "summary": "Tercih konuşmalarında gencin sesine alan açmanın üç yolu."
+      }
+    },
+    {
+      "name": "07-soru-bandi",
+      "template": "soru_bant",
+      "data": {
+        "tag": "Okulun ilk haftaları",
+        "q": [
+          "Dikkati mi dağınık,",
+          "yöntemi mi yanlış?"
+        ],
+        "sub": "Odaklanamamak çoğu zaman irade değil, yöntem meselesidir.",
+        "cta": "Kaydır"
+      }
+    },
+    {
+      "name": "08-alinti-karti",
+      "template": "alinti",
+      "data": {
+        "q1": "Kaygı, yolun kapandığını değil;",
+        "q2": "bu yolun senin için önemli olduğunu söyler.",
+        "line": "Nefes al ve yalnızca bir sonraki adımına dön."
+      }
+    },
+    {
+      "name": "09-story",
+      "template": "story",
+      "data": {
+        "tag": "Sınav haftası",
+        "title": [
+          "Uykusuz",
+          "gece",
+          "işe",
+          "yaramaz."
+        ],
+        "body": "Son gece yeni konu değil, <b>dinlenmiş bir zihin</b> kazandırır. Bu akşam erken kapat.",
+        "cta": "Birlikte planlayalım"
+      }
+    }
+  ]
+}

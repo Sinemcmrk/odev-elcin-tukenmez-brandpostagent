@@ -1,0 +1,185 @@
+{
+  "brand": "design_house",
+  "out": "cikti/design_house",
+  "posts": [
+    {
+      "name": "01-portfolio-lesson",
+      "template": "lesson",
+      "data": {
+        "lab": "( Portfolio lesson 05 )",
+        "h1": "Show the turn.",
+        "h2": "Not just the end.",
+        "body": "Reviewers want to see where your idea changed direction, and why.",
+        "rule": "2–3 pages that show a pivot, labeled by date.",
+        "cta": "Explore your creative direction."
+      }
+    },
+    {
+      "name": "02-statement",
+      "template": "statement",
+      "data": {
+        "lab": "( Studio notes )",
+        "l1": "Your first idea",
+        "l2": "is rarely your best one.",
+        "sub": "Keep it. Then make three more. The fourth one usually knows what it wants to be."
+      }
+    },
+    {
+      "name": "03-destinations-1-kapak",
+      "template": "dest_cover",
+      "data": {
+        "n": 4,
+        "bg": "LONDON<br>NEW YORK<br>MILAN",
+        "h": "Where our<br>students<br>get in.",
+        "sub": "Three cities. Six schools. One studio."
+      }
+    },
+    {
+      "name": "03-destinations-2",
+      "template": "dest_city",
+      "data": {
+        "n": 4,
+        "i": 1,
+        "city": "London",
+        "where": "London",
+        "schools": "Central Saint<br>Martins + RCA.",
+        "line": "Where a portfolio is read like a point of view."
+      }
+    },
+    {
+      "name": "03-destinations-3",
+      "template": "dest_city",
+      "data": {
+        "n": 4,
+        "i": 2,
+        "city": "New York",
+        "bgsize": 200,
+        "where": "New York",
+        "schools": "Parsons<br>+ Pratt.",
+        "line": "Two schools where making is a way of thinking."
+      }
+    },
+    {
+      "name": "03-destinations-4",
+      "template": "dest_city",
+      "data": {
+        "n": 4,
+        "i": 3,
+        "city": "Milan",
+        "where": "Milan",
+        "schools": "Politecnico<br>+ NABA.",
+        "line": "Design culture with a technical spine.",
+        "end": "Build your application with Design House."
+      }
+    },
+    {
+      "name": "04-six-paths",
+      "template": "paths",
+      "data": {
+        "paths": [
+          [
+            "Spatial<br>design",
+            "Architecture",
+            "#A9D6E5"
+          ],
+          [
+            "Visual<br>comms",
+            "Graphic & type",
+            "#EC6242"
+          ],
+          [
+            "Fine<br>arts",
+            "Studio practice",
+            "#F0E2A6"
+          ],
+          [
+            "Indus-<br>trial",
+            "Product & object",
+            "#D8F24A"
+          ],
+          [
+            "Fashion",
+            "Concept & textile",
+            "#C9C2F0"
+          ],
+          [
+            "Photo<br>& film",
+            "Storytelling",
+            "#A9D6E5"
+          ]
+        ]
+      }
+    },
+    {
+      "name": "05-by-the-numbers",
+      "template": "numbers",
+      "data": {
+        "rows": [
+          [
+            "12+",
+            "Years"
+          ],
+          [
+            "900+",
+            "Students"
+          ],
+          [
+            "40+",
+            "Schools"
+          ],
+          [
+            "96%",
+            "Accepted"
+          ]
+        ],
+        "end": "Twelve years of portfolios,",
+        "it": "zero boring ones."
+      }
+    },
+    {
+      "name": "06-build-your-future",
+      "template": "future",
+      "data": {
+        "body": "Portfolio prep, mentorship and admissions strategy for the world's best art & design schools.",
+        "cta": "DM “REVIEW” to book a portfolio review"
+      }
+    },
+    {
+      "name": "07-service-block",
+      "template": "service",
+      "data": {
+        "idx": "01",
+        "lab": "( What we do ) 01",
+        "title": "Portfolio<br>direction.",
+        "body": "We help you find the thread that connects your projects, then edit until every page earns its place.",
+        "cta": "Book a portfolio review"
+      }
+    },
+    {
+      "name": "08-badge-lesson",
+      "template": "badge",
+      "data": {
+        "kicker": "Nobody asks what software you used for the cover.",
+        "h1": "Open with",
+        "h2": "a decision,",
+        "h3": "not decoration.",
+        "rule": "15–20 words.<br>One cover.",
+        "body": "The first page tells the reviewer how you think. Make it a choice, not a collage."
+      }
+    },
+    {
+      "name": "09-story",
+      "template": "story",
+      "data": {
+        "tag": "( Studio notes )",
+        "title": [
+          "Your first idea —",
+          "is rarely",
+          "your best one."
+        ],
+        "body": "Keep it. Then make three more. The fourth one usually knows what it wants to be.",
+        "cta": "DM “REVIEW”"
+      }
+    }
+  ]
+}

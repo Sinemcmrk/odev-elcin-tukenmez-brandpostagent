@@ -1,0 +1,436 @@
+{
+ "brand": "e4i",
+ "name": "Education for Innovation",
+ "handle": "@e4i_vakfi",
+ "site": "educationforinnovation.org",
+ "language": "en",
+ "summary": {
+  "statement": "Öğrencileri ve aileleri geleceğin alanlarına hazırlayan inovasyon vakfı.",
+  "about": "Zorlu Center/İstanbul merkezli İnovasyon için Eğitim Vakfı (Education for Innovation, E4I); öğrencilere kariyer planlaması, dünyanın önde gelen üniversitelerine kabul ve inovasyon zihniyeti konusunda destek verir. Staj, eğitim, konferans, yarışma ve hackathon programları yürütür; San Francisco'dan İstanbul'a 12 şehirlik bir ağla çalışır. Instagram'da İngilizce yayın yapar ve dünyadaki hackathon, yarışma ve fırsatları duyurur.",
+  "facts": [
+   [
+    "Kitle",
+    "Lise ve üniversite öğrencileri, aileler, kurumlar"
+   ],
+   [
+    "Program",
+    "Staj · Eğitim · Konferans · Yarışma · Hackathon"
+   ],
+   [
+    "Instagram",
+    "8.052 takipçi · 1.008 gönderi"
+   ],
+   [
+    "Ağ",
+    "12 küresel lokasyon · 5+ iş ortağı"
+   ]
+  ],
+  "promise": "“İnovasyon bir yetenek değil, geliştirilebilen bir zihniyettir.”",
+  "role": "Aile içindeki rolü: vakıf ve ilham kolu. Diğer markalar hizmet satarken E4I fırsat sunar: hackathon, yarışma, staj. ABA markalarının hepsi sitesinde “iş ortağı” olarak yer alır."
+ },
+ "voice": {
+  "intro": "İlham veren ve fırsat odaklı. Web sitesi Türkçe “biz” diliyle, Instagram İngilizce manşetlerle konuşur.",
+  "two": {
+   "web": "Geleceğin liderlerini bugünden yetiştiriyoruz.",
+   "ig": "One opportunity can change your direction.",
+   "note": "Web Türkçe ve vizyoner “biz”; Instagram İngilizce ve doğrudan “you”. Dikkat: sitenin blog yazıları da İngilizce, yani web'in kendi içinde de dil karışık."
+  },
+  "pillars": [
+   [
+    "Vizyoner",
+    "Geleceğin alanları: yapay zekâ, yaşam bilimleri, girişimcilik. “Fields you haven't met yet.”"
+   ],
+   [
+    "Fırsat odaklı",
+    "Her post bir kapı açar: ödül, son tarih, şehir, başvuru linki."
+   ],
+   [
+    "Yap-öğren",
+    "Kuram değil uygulama: “Plan. Build. Pitch.”, “Working beats perfect.”"
+   ]
+  ],
+  "patterns": [
+   [
+    "Manşet sorusu",
+    "TESLA'S “FLYING CAR”? · What Is a Hackathon?"
+   ],
+   [
+    "Kısa karşıtlık",
+    "Speed alone isn't progress. Ethics points AI in the right direction."
+   ],
+   [
+    "Üçlü ritim",
+    "Problem. People. Plan. · Plan • Build • Pitch · Follow. Learn. Build."
+   ],
+   [
+    "Kapanış dersi",
+    "Clarity beats complexity. · Working beats perfect."
+   ]
+  ],
+  "address": [
+   [
+    "Instagram",
+    "you",
+    "One opportunity can change your direction."
+   ],
+   [
+    "Web sitesi",
+    "biz / siz",
+    "Öğrenci, veli veya kurum olarak bize ulaşın."
+   ]
+  ],
+  "do": [
+   "Başlığa bir soru veya iddia koy, cevabı ikinci satırda ver.",
+   "Fırsat postlarında ödül, son tarih ve uygunluğu (Türkiye eligible) yaz.",
+   "“Save this”, “Tag the person…” gibi tek bir etkileşim çağrısı kullan."
+  ],
+  "dont": [
+   "Aynı hesapta Türkçe ve İngilizce dili karıştırma; bir kural belirle.",
+   "Ünlü kişi ve şirket görsellerini yapay zekâ ile “gerçek” gibi üretme.",
+   "Logoyu fotoğrafın kalabalık bölgesine koyma; arkasına beyaz kutu ekleme."
+  ]
+ },
+ "caption": {
+  "steps": [
+   [
+    "Kanca",
+    "Soru veya şaşırtıcı fikir + 1–2 emoji"
+   ],
+   [
+    "Bağlam",
+    "Kısa açıklama: ne, neden önemli"
+   ],
+   [
+    "Liste",
+    "💡 🛠️ 🔹 ile 3 madde"
+   ],
+   [
+    "Eylem",
+    "Save, tag, link in bio, blog"
+   ],
+   [
+    "Etiketler",
+    "#E4I + #Hackathon #Innovation …"
+   ]
+  ],
+  "example": [
+   "A great hackathon project isn't built by doing everything—it's built by focusing on what matters. 🚀",
+   "💡 Plan with purpose  🛠️ Build what works  🎤 Show the impact",
+   "Save this 3-step playbook for your next hackathon—and tag the teammates you'd build with!",
+   "#Hackathon #Innovation #Entrepreneurship #MVP #Pitching"
+  ],
+  "hashtags": [
+   "#E4I",
+   "#EducationForInnovation",
+   "#Hackathon",
+   "#Innovation",
+   "#StudentOpportunities",
+   "#ArtificialIntelligence",
+   "#FutureCareers",
+   "#TechStudents"
+  ],
+  "emoji": "🚀 💡 🛠️ 🎤 🔹 ✨ 🌍 · madde başı ve vurgu için"
+ },
+ "content_pillars": [
+  [
+   "Fırsat duyurusu",
+   "Amazon's $138,000 Global Hackathon!",
+   "you"
+  ],
+  [
+   "Geleceğin meslekleri",
+   "Future careers: AI Ethics, Bioinformatics",
+   "you"
+  ],
+  [
+   "Playbook / rehber",
+   "How to succeed at hackathons: a 3-part playbook",
+   "you"
+  ],
+  [
+   "İnovasyon haberi",
+   "Tesla's “Flying Car”? Real demo.",
+   "you"
+  ],
+  [
+   "Etkinlik",
+   "GITEX AI Türkiye 2026, InArts",
+   "you"
+  ],
+  [
+   "Çalışma ipucu",
+   "Study smarter, not longer",
+   "you"
+  ]
+ ],
+ "checklist": [
+  "Logo sağ üstte, kutusuz ve okunur mu?",
+  "Başlık soru veya iddia + vurgu satırı mı?",
+  "Madde barları yeşil → mor → turuncu sırasında mı?",
+  "Lime yalnızca tek kelimede mi kullanıldı?",
+  "Fırsat postunda ödül, son tarih ve uygunluk var mı?",
+  "Dil kuralına uyuldu mu (görsel EN / caption)?",
+  "Altta yeşil iletişim bandı ve doğru telefon var mı?",
+  "Tek bir etkileşim çağrısı var mı (Save / Tag)?",
+  "#E4I etiketi eklendi mi?",
+  "Yapay zekâ görseli etiketli ve yanıltıcı değil mi?"
+ ],
+ "palette": [
+  {
+   "name": "Logo yeşili",
+   "hex": "#62B146",
+   "use": "Logonun damlası ve yazısı."
+  },
+  {
+   "name": "Logo moru",
+   "hex": "#774A9D",
+   "use": "Dış halka."
+  },
+  {
+   "name": "Logo kırmızısı",
+   "hex": "#E01E26",
+   "use": "Orta halka."
+  },
+  {
+   "name": "Logo turuncusu",
+   "hex": "#F28123",
+   "use": "İç halka."
+  },
+  {
+   "name": "Gece laciverti",
+   "hex": "#050E1F",
+   "use": "Post zemini, kartlar."
+  },
+  {
+   "name": "Fırsat yeşili",
+   "hex": "#18B77D",
+   "use": "1. madde, iletişim bandı."
+  },
+  {
+   "name": "Hackathon moru",
+   "hex": "#7847D6",
+   "use": "2. madde, etiket hapı."
+  },
+  {
+   "name": "Eylem turuncusu",
+   "hex": "#FF671B",
+   "use": "3. madde, vurgu satırı."
+  },
+  {
+   "name": "Neon lime",
+   "hex": "#B0FE25",
+   "use": "Tek kelime vurgu, “Save this”."
+  },
+  {
+   "name": "Lacivert",
+   "hex": "#15203A",
+   "use": "Başlık ve metin."
+  },
+  {
+   "name": "Vakıf moru",
+   "hex": "#5E2390",
+   "use": "Buton, etiket, istatistik."
+  },
+  {
+   "name": "Şarap",
+   "hex": "#8A1E3C",
+   "use": "Gradyan geçişi."
+  },
+  {
+   "name": "Açık zemin",
+   "hex": "#F4F6FA",
+   "use": "Sayfa zemini."
+  }
+ ],
+ "color_meanings": [
+  [
+   "#18B77D",
+   "Yeşil",
+   "Fırsat ve büyüme: staj, eğitim, iletişim bandı. Logodan gelir."
+  ],
+  [
+   "#7847D6",
+   "Mor",
+   "Topluluk ve teknoloji: hackathon, konferans, seri etiketi."
+  ],
+  [
+   "#FF671B",
+   "Turuncu",
+   "Eylem ve son tarih: yarışma, ödül, vurgu satırı."
+  ],
+  [
+   "#B0FE25",
+   "Lime",
+   "Tek bir kelimeyi parlatmak: “FLYING CAR”, “AI ETHICS”."
+  ]
+ ],
+ "fonts": [
+  "Roboto — Web sitesi · başlık 900, metin 400–600",
+  "Archivo Black — Instagram başlıkları · ağır grotesk*",
+  "Oswald — Ders/çalışma serisi · dar başlık*",
+  "Montserrat — Logo yazısına en yakın geometrik sans*"
+ ],
+ "logo": "Yeşil bir damla/yaprak içinde iç içe üç halka (mor, kırmızı, turuncu) ve yıldızlar: büyüyen bir fikir ve gelecek. Yanında yeşil “inovasyon için eğitim vakfı” yazısı, küçük harf, üç satır. ABA markalarının çiçek işaretinden tamamen ayrı bir kimlik.",
+ "library": {
+  "intro": "Eight feed series and one Story layout, each a different composition family: art-band announcement, playbook carousel, field card, city grid, numbered tips, manifesto, icon process infographic and a photo-led spotlight. The logo sits top right without a tile, exactly as on Instagram.",
+  "constants": [
+   "Logo top right, no tile (as on Instagram)",
+   "Green contact band: educationforinnovation.org • +90 212 287 8606",
+   "Bars always green → purple → orange; lime only for one phrase",
+   "Archivo Black (Arial Black family) for every headline"
+  ],
+  "hooks": [
+   "What is a …?",
+   "One opportunity can change your direction.",
+   "Fields you haven't met yet: …",
+   "How to … : a 3-step playbook",
+   "… beats …",
+   "48 hours. From idea to prototype.",
+   "Speed alone isn't progress.",
+   "Save this before …",
+   "Today's field: …",
+   "Problem. People. Plan."
+  ],
+  "ctas": [
+   "Save this playbook.",
+   "Tag the person you'd build with.",
+   "Apply via link in bio.",
+   "Follow for global opportunities.",
+   "Read the blog →"
+  ],
+  "series": [
+   {
+    "id": "01",
+    "name": "Program Spotlight",
+    "when": "Announcing an E4I program: hackathon, internship, competition.",
+    "freq": "Monthly · around applications",
+    "fmt": "Single · art band",
+    "slots": [
+     "Art band: grid, glow, logo rings",
+     "Purple tag + 3-line headline (last line orange)",
+     "Three bars: format, who, focus",
+     "Lime outline CTA"
+    ],
+    "caption": "48 hours. From idea to prototype. 🚀\n\nThe E4I Hackathon brings high school and university students together around AI, life sciences and startups.\n\nApply via the link in bio.\n#E4I #Hackathon #Innovation #StudentOpportunities"
+   },
+   {
+    "id": "02",
+    "name": "Playbook",
+    "when": "A skill taught in three steps; the most saved format.",
+    "freq": "Every 2 weeks",
+    "fmt": "Carousel · 4 slides",
+    "slots": [
+     "Cover: question headline + Map/Prove/Ask bars",
+     "Step slides: cream step pill, 2-line headline",
+     "Three numbered rows in green, purple, orange",
+     "Lime lesson line; last slide “Save this playbook.”"
+    ],
+    "caption": "Your first internship doesn't start with a CV. It starts with curiosity. 💡\n\n🔹 Map the teams you admire  🔹 Prove it small  🔹 Ask clearly\n\nSave this playbook and tag the friend who's applying this year!\n#E4I #Internship #CareerTips #StudentOpportunities"
+   },
+   {
+    "id": "03",
+    "name": "Future Careers",
+    "when": "Introducing a field students haven't met yet.",
+    "freq": "Every 2 weeks",
+    "fmt": "Single · dark",
+    "slots": [
+     "Purple series tag + lime “Today's field”",
+     "Field name, second word lime",
+     "One-line definition",
+     "Three bars: skills, where, start"
+    ],
+    "caption": "Today's field: Synthetic Biology 🧬\n\nDesigning living systems the way engineers design machines. Biology, code and design in one career.\n\nWhich field should we cover next?\n#E4I #FutureCareers #SyntheticBiology #STEM"
+   },
+   {
+    "id": "04",
+    "name": "Global Network",
+    "when": "Showing the foundation's international reach.",
+    "freq": "Monthly",
+    "fmt": "Single · dark",
+    "slots": [
+     "Two-line headline, second line orange",
+     "12-city grid with lime ✦",
+     "Green summary bar"
+    ],
+    "caption": "From San Francisco to Istanbul: 12 cities, one network. 🌍\n\nOur students meet the world's innovation ecosystems where they actually happen.\n#E4I #GlobalOpportunities #Innovation"
+   },
+   {
+    "id": "05",
+    "name": "Study Smarter",
+    "when": "A quick, evidence-based study tip.",
+    "freq": "Weekly",
+    "fmt": "Single · dark",
+    "slots": [
+     "Tag + 2-line headline",
+     "Three numbered rows",
+     "Lime closing rule"
+    ],
+    "caption": "Study smarter, not longer. 📚\n\nReview after 1, 3 and 7 days, test yourself before you reread, and sleep on it. Spaced repetition beats cramming.\n#E4I #StudyTips #StudentLife"
+   },
+   {
+    "id": "06",
+    "name": "Manifesto",
+    "when": "Repeating the foundation's vision; anchors the grid.",
+    "freq": "Monthly",
+    "fmt": "Single · rings",
+    "slots": [
+     "Lime quote mark",
+     "Three-line statement, last line orange",
+     "Turkish translation line",
+     "Lime outline follow CTA"
+    ],
+    "caption": "Innovation isn't a talent. It's a mindset. ✨\n\nİnovasyon bir yetenek değil, geliştirilebilen bir zihniyettir.\n#E4I #EducationForInnovation #Innovation"
+   },
+   {
+    "id": "07",
+    "name": "Process Infographic",
+    "when": "Explaining how something works as a flow of 4–5 steps (blog cover language).",
+    "freq": "Monthly · with blog posts",
+    "fmt": "Single · icon flow",
+    "slots": [
+     "Small spaced kicker",
+     "Two-line headline, second line lime",
+     "One-line promise",
+     "4–5 neon icon nodes on a gradient line, labels in brand colours"
+    ],
+    "caption": "What is a hackathon? 🧩\n\nProblem → People → Plan → Prototype → Pitch. Five moves from a real problem to a working demo.\n\nRead the full guide on our blog.\n#E4I #Hackathon #Innovation #StudentOpportunities"
+   },
+   {
+    "id": "08",
+    "name": "Innovation Spotlight",
+    "when": "Introducing a technology or idea with a strong visual; photo-led when a photo is available.",
+    "freq": "Every 2 weeks",
+    "fmt": "Single · large visual",
+    "slots": [
+     "Top 55%: uploaded photo or neon grid + logo rings",
+     "Purple tag",
+     "Two-line headline, second line orange",
+     "Two lime-outline chips (field + first step)"
+    ],
+    "caption": "Robots that learn by watching. 🤖\n\nImitation learning lets machines copy a task from a handful of human demonstrations. A field where AI meets robotics.\n#E4I #FutureCareers #Robotics #AI"
+   },
+   {
+    "id": "09",
+    "name": "Instagram Story",
+    "when": "A one-screen reminder supporting a feed post; 1080×1920.",
+    "freq": "With feed posts",
+    "fmt": "Story · 9:16",
+    "slots": [
+     "Safe zones top and bottom",
+     "Art band with logo rings",
+     "White + orange headline",
+     "Lime outline CTA"
+    ],
+    "caption": "Stories have no caption; highlight note: “Study tips.” #E4I"
+   }
+  ]
+ },
+ "verified_facts": [
+  "Programs: Internships, Trainings, Conferences, Competitions, Hackathon (48 hours from idea to prototype)",
+  "Pillars: innovation mindset, global vision, future fields (AI, life sciences, entrepreneurship)",
+  "Network cities: San Francisco, Boston, New York, Toronto, London, Dublin, Amsterdam, Berlin, Milan, Geneva, Dubai, Istanbul",
+  "Vision: Innovation isn't a talent, it's a mindset that can be developed",
+  "Based at Zorlu Center, Istanbul",
+  "Network size: 12 cities (website city list)"
+ ]
+}

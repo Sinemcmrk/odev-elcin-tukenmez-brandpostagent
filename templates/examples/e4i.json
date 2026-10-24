@@ -1,0 +1,216 @@
+{
+  "brand": "e4i",
+  "out": "cikti/e4i",
+  "posts": [
+    {
+      "name": "01-program-spotlight",
+      "template": "program",
+      "data": {
+        "tag": "Program spotlight",
+        "h": "48 hours.<br>From idea<br><span class='o'>to prototype.</span>",
+        "bars": [
+          [
+            "g",
+            "Format",
+            "Team hackathon"
+          ],
+          [
+            "p",
+            "Who",
+            "High school & university"
+          ],
+          [
+            "o",
+            "Focus",
+            "AI · Life sciences · Startups"
+          ]
+        ],
+        "cta": "Apply via link in bio"
+      }
+    },
+    {
+      "name": "02-playbook-1-kapak",
+      "template": "play_cover",
+      "data": {
+        "n": 4,
+        "tag": "A 3-step playbook",
+        "h": "How to land<br>your first<br><span class='o'>internship.</span>",
+        "steps": [
+          "Map",
+          "Prove",
+          "Ask"
+        ]
+      }
+    },
+    {
+      "name": "02-playbook-2",
+      "template": "play_step",
+      "data": {
+        "n": 4,
+        "i": 1,
+        "step": "Map",
+        "h1": "Before",
+        "h2": "you apply.",
+        "rows": [
+          "List 10 teams you admire.",
+          "Find one problem they have.",
+          "Write it in one line."
+        ],
+        "end": "Curiosity beats credentials."
+      }
+    },
+    {
+      "name": "02-playbook-3",
+      "template": "play_step",
+      "data": {
+        "n": 4,
+        "i": 2,
+        "step": "Prove",
+        "h1": "Prove it",
+        "h2": "small.",
+        "rows": [
+          "Build one tiny project.",
+          "Share it in public.",
+          "Ask for one piece of feedback."
+        ],
+        "end": "Proof beats promises."
+      }
+    },
+    {
+      "name": "02-playbook-4",
+      "template": "play_step",
+      "data": {
+        "n": 4,
+        "i": 3,
+        "step": "Ask",
+        "h1": "Send",
+        "h2": "the email.",
+        "rows": [
+          "Five sentences. No more.",
+          "Link the project.",
+          "End with one clear ask."
+        ],
+        "end": "Save this playbook.",
+        "btn": true
+      }
+    },
+    {
+      "name": "03-future-careers",
+      "template": "field",
+      "data": {
+        "f1": "Synthetic",
+        "f2": "biology",
+        "line": "Designing living systems the way engineers design machines.",
+        "bars": [
+          [
+            "g",
+            "Skills",
+            "Biology + code + design"
+          ],
+          [
+            "p",
+            "Where",
+            "Health · Climate · Food"
+          ],
+          [
+            "o",
+            "Start",
+            "A summer lab project"
+          ]
+        ],
+        "end": "Today's field: tomorrow's career."
+      }
+    },
+    {
+      "name": "04-global-network",
+      "template": "cities",
+      "data": {
+        "cities": [
+          "San Francisco",
+          "Boston",
+          "New York",
+          "Toronto",
+          "London",
+          "Dublin",
+          "Amsterdam",
+          "Berlin",
+          "Milan",
+          "Geneva",
+          "Dubai",
+          "Istanbul"
+        ],
+        "end": "12 cities. One network."
+      }
+    },
+    {
+      "name": "05-study-smarter",
+      "template": "study",
+      "data": {
+        "tag": "Study tip",
+        "h1": "Study smarter,",
+        "h2": "not longer.",
+        "rows": [
+          "Review after 1, 3 and 7 days.",
+          "Test yourself before you reread.",
+          "Sleep on it."
+        ],
+        "end": "Spaced repetition beats cramming."
+      }
+    },
+    {
+      "name": "06-manifesto",
+      "template": "manifesto",
+      "data": {
+        "l1": "Innovation",
+        "l2": "isn't a talent.",
+        "l3": "It's a mindset.",
+        "tr": "İnovasyon bir yetenek değil, geliştirilebilen bir zihniyettir."
+      }
+    },
+    {
+      "name": "07-process",
+      "template": "process",
+      "data": {
+        "kicker": "EDUCATION FOR INNOVATION",
+        "h1": "What is a",
+        "h2": "hackathon?",
+        "line": "From a real problem to a working prototype, in five moves.",
+        "steps": [
+          "Problem",
+          "People",
+          "Plan",
+          "Prototype",
+          "Pitch"
+        ]
+      }
+    },
+    {
+      "name": "08-spotlight",
+      "template": "spotlight",
+      "data": {
+        "tag": "Innovation spotlight",
+        "h1": "Robots that",
+        "h2": "learn by watching.",
+        "sub": "Imitation learning lets machines copy a task from a few human demonstrations.",
+        "chips": [
+          "AI + robotics",
+          "Try: a simulation lab"
+        ]
+      }
+    },
+    {
+      "name": "09-story",
+      "template": "story",
+      "data": {
+        "tag": "Study tip",
+        "title": [
+          "Review",
+          "after 1, 3",
+          "and 7 days."
+        ],
+        "body": "Spaced repetition beats cramming. Test yourself before you reread.",
+        "cta": "Save this story"
+      }
+    }
+  ]
+}

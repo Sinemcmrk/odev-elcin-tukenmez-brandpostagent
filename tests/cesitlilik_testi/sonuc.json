@@ -1,0 +1,381 @@
+{
+ "aba_psikoloji": {
+  "posts": [
+   {
+    "topic": "Sınav kaygısı yaşayan öğrenciye kısa ve sakinleştirici bir mesaj",
+    "first_choice": "alinti",
+    "series": "alinti",
+    "name": "Alıntı Kartı",
+    "layout": "ortalanmış-alıntı",
+    "theme": null,
+    "alternatives": [
+     "ic_ses",
+     "soru_bant",
+     "ebeveyn"
+    ],
+    "pages": 1,
+    "size": [
+     1080,
+     1350
+    ],
+    "overflow": false,
+    "image": "aba_psikoloji-alinti-01.png"
+   },
+   {
+    "topic": "Çocuğu sınav sonucunu saklayan veliler için iletişim önerisi",
+    "first_choice": "ebeveyn",
+    "series": "ebeveyn",
+    "name": "Ebeveyn Rehberi",
+    "layout": "soru-kutusu",
+    "theme": "bordo",
+    "alternatives": [
+     "ic_ses",
+     "mit",
+     "rutin"
+    ],
+    "pages": 1,
+    "size": [
+     1080,
+     1350
+    ],
+    "overflow": false,
+    "image": "aba_psikoloji-ebeveyn-01.png"
+   },
+   {
+    "topic": "Sınav dönemi hakkında doğru bilinen yanlışlar: mit ve gerçek",
+    "first_choice": "mit",
+    "series": "mit",
+    "name": "Mit vs Gerçek",
+    "layout": "carousel-karşılaştırma",
+    "theme": "koyu",
+    "alternatives": [
+     "ic_ses",
+     "ebeveyn",
+     "rutin"
+    ],
+    "pages": 4,
+    "size": [
+     1080,
+     1350
+    ],
+    "overflow": false,
+    "image": "aba_psikoloji-mit-01.png"
+   },
+   {
+    "topic": "Pazartesi için küçük ve uygulanabilir bir haftalık çalışma rutini",
+    "first_choice": "rutin",
+    "series": "rutin",
+    "name": "Haftanın Rutini",
+    "layout": "adım-listesi",
+    "theme": "krem",
+    "alternatives": [
+     "ic_ses",
+     "ebeveyn",
+     "alinti"
+    ],
+    "pages": 1,
+    "size": [
+     1080,
+     1350
+    ],
+    "overflow": false,
+    "image": "aba_psikoloji-rutin-01.png"
+   }
+  ],
+  "distinct_layouts": true,
+  "max_edge_corr": 0.388,
+  "pair_corr": [
+   -0.012,
+   0.388,
+   0.127,
+   0.159,
+   0.33,
+   0.149
+  ]
+ },
+ "aba_egitim": {
+  "posts": [
+   {
+    "topic": "ABD üniversite başvurusunda öğrencilerin sonradan 'keşke' dediği detaylar",
+    "first_choice": "keske",
+    "series": "keske",
+    "name": "“Keşke” Listesi",
+    "layout": "carousel-numaralı",
+    "theme": "lacivert",
+    "alternatives": [
+     "foto_duyuru",
+     "sinav",
+     "uzman"
+    ],
+    "pages": 4,
+    "size": [
+     1080,
+     1350
+    ],
+    "overflow": false,
+    "image": "aba_egitim-keske-01.png"
+   },
+   {
+    "topic": "IELTS hazırlık programımızın duyurusu",
+    "first_choice": "sinav",
+    "series": "sinav",
+    "name": "Sınav Programı",
+    "layout": "dev-başlık",
+    "theme": "krem",
+    "alternatives": [
+     "foto_duyuru",
+     "uzman",
+     "slogan"
+    ],
+    "pages": 1,
+    "size": [
+     1080,
+     1350
+    ],
+    "overflow": false,
+    "image": "aba_egitim-sinav-01.png"
+   },
+   {
+    "topic": "Başvuru dönemi başladı: öğrencileri son tarihlerini kontrol etmeye çağıran duyuru",
+    "first_choice": "foto_duyuru",
+    "series": "foto_duyuru",
+    "name": "Fotoğraflı Duyuru",
+    "layout": "tam-sayfa-görsel",
+    "theme": null,
+    "alternatives": [
+     "keske",
+     "sinav",
+     "uzman"
+    ],
+    "pages": 1,
+    "size": [
+     1080,
+     1350
+    ],
+    "overflow": false,
+    "image": "aba_egitim-foto_duyuru-01.png"
+   },
+   {
+    "topic": "Eğitim danışmanlığı: hedefe göre plan yapmanın önemi, kampanya mesajı",
+    "first_choice": "slogan",
+    "series": "slogan",
+    "name": "Slogan",
+    "layout": "ortalanmış-tipografi",
+    "theme": "lacivert",
+    "alternatives": [
+     "keske",
+     "sinav",
+     "uzman"
+    ],
+    "pages": 1,
+    "size": [
+     1080,
+     1350
+    ],
+    "overflow": false,
+    "image": "aba_egitim-slogan-01.png"
+   }
+  ],
+  "distinct_layouts": true,
+  "max_edge_corr": 0.426,
+  "pair_corr": [
+   0.426,
+   0.167,
+   0.241,
+   0.221,
+   0.283,
+   0.221
+  ]
+ },
+ "e4i": {
+  "posts": [
+   {
+    "topic": "What is a hackathon and how does the process work, step by step",
+    "first_choice": "process",
+    "series": "process",
+    "name": "Process Infographic",
+    "layout": "ikonlu-infografik",
+    "theme": "mor",
+    "alternatives": [
+     "playbook",
+     "field",
+     "study"
+    ],
+    "pages": 1,
+    "size": [
+     1080,
+     1350
+    ],
+    "overflow": false,
+    "image": "e4i-process-01.png"
+   },
+   {
+    "topic": "Introducing climate tech as a future career field for high school students",
+    "first_choice": "field",
+    "series": "field",
+    "name": "Future Careers",
+    "layout": "alan-kartı",
+    "theme": "acik",
+    "alternatives": [
+     "spotlight",
+     "playbook",
+     "study"
+    ],
+    "pages": 1,
+    "size": [
+     1080,
+     1350
+    ],
+    "overflow": false,
+    "image": "e4i-field-01.png"
+   },
+   {
+    "topic": "How to land your first internship: a 3-step playbook",
+    "first_choice": "playbook",
+    "series": "playbook",
+    "name": "Playbook (3 steps)",
+    "layout": "carousel-adım",
+    "theme": "mor",
+    "alternatives": [
+     "cities",
+     "field",
+     "study"
+    ],
+    "pages": 4,
+    "size": [
+     1080,
+     1350
+    ],
+    "overflow": false,
+    "image": "e4i-playbook-01.png"
+   },
+   {
+    "topic": "Innovation spotlight: robots that learn by watching humans",
+    "first_choice": "spotlight",
+    "series": "spotlight",
+    "name": "Innovation Spotlight",
+    "layout": "büyük-görsel",
+    "theme": "koyu",
+    "alternatives": [
+     "playbook",
+     "field",
+     "study"
+    ],
+    "pages": 1,
+    "size": [
+     1080,
+     1350
+    ],
+    "overflow": false,
+    "image": "e4i-spotlight-01.png"
+   }
+  ],
+  "distinct_layouts": true,
+  "max_edge_corr": 0.239,
+  "pair_corr": [
+   0.136,
+   0.126,
+   0.113,
+   0.239,
+   0.165,
+   0.127
+  ]
+ },
+ "design_house": {
+  "posts": [
+   {
+    "topic": "One portfolio rule: why process pages matter more than the final piece",
+    "first_choice": "lesson",
+    "series": "lesson",
+    "name": "Portfolio Lesson",
+    "layout": "pano-ders",
+    "theme": "krem",
+    "alternatives": [
+     "badge",
+     "service",
+     "statement"
+    ],
+    "pages": 1,
+    "size": [
+     1080,
+     1350
+    ],
+    "overflow": false,
+    "image": "design_house-lesson-01.png"
+   },
+   {
+    "topic": "Editing your portfolio: fewer, stronger projects",
+    "first_choice": "lesson",
+    "series": "future",
+    "name": "Build Your Future (CTA)",
+    "layout": "siyah-cta",
+    "theme": "sarap",
+    "alternatives": [
+     "lesson",
+     "service",
+     "badge"
+    ],
+    "pages": 1,
+    "size": [
+     1080,
+     1350
+    ],
+    "overflow": false,
+    "image": "design_house-future-01.png"
+   },
+   {
+    "topic": "The six creative disciplines students can apply for",
+    "first_choice": "destinations",
+    "series": "destinations",
+    "name": "Destinations",
+    "layout": "carousel-şehir",
+    "theme": "sarap",
+    "alternatives": [
+     "paths",
+     "lesson",
+     "statement"
+    ],
+    "pages": 4,
+    "size": [
+     1080,
+     1350
+    ],
+    "overflow": false,
+    "image": "design_house-destinations-01.png"
+   },
+   {
+    "topic": "Our portfolio direction service explained",
+    "first_choice": "service",
+    "series": "service",
+    "name": "Service Block",
+    "layout": "bölünmüş-blok",
+    "theme": null,
+    "alternatives": [
+     "lesson",
+     "badge",
+     "statement"
+    ],
+    "pages": 1,
+    "size": [
+     1080,
+     1350
+    ],
+    "overflow": false,
+    "image": "design_house-service-01.png"
+   }
+  ],
+  "distinct_layouts": true,
+  "max_edge_corr": 0.402,
+  "pair_corr": [
+   0.239,
+   0.231,
+   0.095,
+   0.402,
+   0.148,
+   0.034
+  ]
+ },
+ "olcut_dogrulama": {
+  "ayni_sablon_farkli_renk_corr": 0.835
+ }
+}
